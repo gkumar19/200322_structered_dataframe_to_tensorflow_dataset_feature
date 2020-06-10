@@ -2,6 +2,8 @@
 """
 Created on Thu Feb 20 15:28:13 2020
 
+Data: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 @author: KGU2BAN
 """
 
